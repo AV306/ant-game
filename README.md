@@ -6,6 +6,8 @@ There are too many ants in my home.
 
 Have fun!
 
+Dedicated to Nicholas and my mom (who hates ants).
+
 ## Features (ALL SUBJECT TO CHANGE)
 
 ### Ants
