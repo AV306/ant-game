@@ -10,7 +10,7 @@ public class Weapon : MonoBehaviour
 	public const int NEWSPAPER = 1;
 	public const int BAGETT = 2;
 
-	public void Use( Vector2 target )
+	public void Use( Vector3 target )
 	{
 		
 	}
